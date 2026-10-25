@@ -56,8 +56,8 @@ module.exports = async function handler(req, res) {
     const result = await response.json();
     let destination;
     try { destination = new URL(result.url); } catch (_) {}
-    if (!destination || destination.protocol !== "https:" || destination.hostname !== "checkout.infinitepay.com.br")
-      return res.status(502).json({error:"A InfinitePay retornou um link inválido."});
+    if (!destination || destination.protocol !== "https:" || !/^(checkout|buy|pay)\.infinitepay\.(io|com\.br)$/.test(destination.hostname))
+      { console.error("InfinitePay returned unexpected checkout host",destination?.hostname||"missing-url",Object.keys(result||{})); return res.status(502).json({error:"A InfinitePay retornou um endereço não reconhecido. Confira os logs da Vercel."}); }
     return res.status(200).json({url:destination.href});
   } catch (error) {
     console.error("Checkout integration error",error && error.message);
