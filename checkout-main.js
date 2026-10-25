@@ -55,7 +55,7 @@ async function pay(method) {
     if(selected.giftId===null)payload.customAmountCents=Math.round(selected.price*100);
     const response=await fetch("/api/checkout",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(payload)});
     const result=await response.json().catch(()=>({}));
-    if(!response.ok||!result.url)throw new Error(result.error||"Não foi possível criar o pagamento.");
+    if(!response.ok||!result.url){const d=result.diagnostic;const suffix=d?` (diagnóstico: ${d.reason}; domínio: ${d.host||"não informado"}; campos: ${(d.keys||[]).join(", ")||"nenhum"})`:"";throw new Error((result.error||"Não foi possível criar o pagamento.")+suffix);}
     const url=new URL(result.url);
     if(url.protocol!=="https:"||!/^(checkout|buy|pay)\.infinitepay\.(io|com\.br)$/.test(url.hostname))throw new Error("Link de pagamento inválido.");
     window.location.assign(url.href);
