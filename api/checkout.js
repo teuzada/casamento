@@ -17,6 +17,9 @@ module.exports = async function handler(req, res) {
     const body = typeof req.body === "string" ? JSON.parse(req.body) : req.body;
     if (!body || (body.method !== "credit_card" && body.method !== "pix"))
       return res.status(400).json({error:"Forma de pagamento inválida."});
+    const godparents = body.kind === "padrinhos";
+    if (body.kind !== undefined && body.kind !== "padrinhos" && body.kind !== "geral") return res.status(400).json({error:"Tipo de contribuição inválido."});
+    if (godparents && body.giftId !== null) return res.status(400).json({error:"Selecione uma contribuição especial válida."});
     let amountCents, description;
     if (typeof body.giftId === "string" && body.giftId !== "") {
       const gift = gifts.find(g => g.id === body.giftId);
@@ -25,12 +28,13 @@ module.exports = async function handler(req, res) {
       description = "Presente de casamento - " + gift.name;
     } else if (body.giftId === null && Number.isInteger(body.customAmountCents)) {
       amountCents = body.customAmountCents;
-      description = "Contribuição para nosso primeiro lar";
+      description = godparents ? "Presente dos padrinhos para nosso primeiro lar" : "Contribuição para nosso primeiro lar";
     } else {
       return res.status(400).json({error:"Selecione um presente válido."});
     }
-    if (!Number.isSafeInteger(amountCents) || amountCents < MINIMUM_CENTS || amountCents > MAXIMUM_CENTS)
-      return res.status(400).json({error:"Escolha um valor entre R$ 200 e R$ 100.000."});
+    const minimumCents = godparents ? 120000 : MINIMUM_CENTS;
+    if (!Number.isSafeInteger(amountCents) || amountCents < minimumCents || amountCents > MAXIMUM_CENTS)
+      return res.status(400).json({error:godparents?"O valor mínimo dos padrinhos é R$ 1.200.":"Escolha um valor entre R$ 200 e R$ 100.000."});
     const order_nsu = "casamento-" + crypto.randomUUID();
     const payload = {
       handle: HANDLE,
