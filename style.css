@@ -18,3 +18,11 @@
 .hero .hero-content{max-width:590px}
 @media(min-width:950px){.hero{background-position:center,50% 34%;min-height:780px}}
 @media(max-width:699px){.hero{background-image:linear-gradient(to top,rgba(17,13,11,.86) 0%,rgba(17,13,11,.3) 52%,rgba(17,13,11,.04) 100%),url('casal.jpeg?v=foto-nova-20261024');background-position:center,50% 38%;min-height:92svh;align-items:flex-end}.hero .hero-content{margin-bottom:0;background:rgba(20,15,13,.12)}}
+
+/* Sem zoom: mostrar a foto inteira, preservando o casal no centro. */
+.hero{position:relative;isolation:isolate;background:#352824!important;min-height:min(90svh,860px)}
+.hero::before{content:"";position:absolute;inset:0;background-image:url('casal.jpeg?v=retrato-sem-zoom-2');background-repeat:no-repeat;background-size:contain;background-position:center center;z-index:0}
+.hero .hero-photo{z-index:1;background:linear-gradient(0deg,rgba(20,14,12,.78) 0%,rgba(20,14,12,.28) 36%,rgba(20,14,12,.04) 78%)}
+.hero .hero-content{z-index:2;position:relative}
+@media(min-width:900px){.hero .hero-content{margin:0 auto 0 0;max-width:460px}.hero::before{background-position:60% center}}
+@media(max-width:699px){.hero{min-height:88svh;padding-bottom:30px}.hero::before{background-size:contain;background-position:center center}.hero .hero-content{max-width:100%}}
