@@ -1,4 +1,4 @@
-/* Valores estimados em reais para itens domésticos de padrão intermediário; não são cotações em tempo real. */
+/* Presentes simbólicos: valores de contribuição estimados; mínimo R$ 200. Alguns itens de menor custo foram agrupados ao valor mínimo. */
 window.WEDDING_GIFTS = [
   {
     "id": "presente-001",
@@ -10,7 +10,7 @@ window.WEDDING_GIFTS = [
     "id": "presente-002",
     "name": "Conjunto de frigideiras",
     "category": "Cozinha",
-    "price": 180
+    "price": 200
   },
   {
     "id": "presente-003",
@@ -28,25 +28,25 @@ window.WEDDING_GIFTS = [
     "id": "presente-005",
     "name": "Jogo de copos",
     "category": "Cozinha",
-    "price": 90
+    "price": 200
   },
   {
     "id": "presente-006",
     "name": "Kit de utensílios",
     "category": "Cozinha",
-    "price": 110
+    "price": 200
   },
   {
     "id": "presente-007",
     "name": "Potes herméticos",
     "category": "Cozinha",
-    "price": 130
+    "price": 200
   },
   {
     "id": "presente-008",
     "name": "Escorredor de louça",
     "category": "Cozinha",
-    "price": 85
+    "price": 200
   },
   {
     "id": "presente-009",
@@ -70,7 +70,7 @@ window.WEDDING_GIFTS = [
     "id": "presente-012",
     "name": "Sanduicheira",
     "category": "Cozinha",
-    "price": 130
+    "price": 200
   },
   {
     "id": "presente-013",
@@ -106,13 +106,13 @@ window.WEDDING_GIFTS = [
     "id": "presente-018",
     "name": "Jogo de assadeiras",
     "category": "Cozinha",
-    "price": 150
+    "price": 200
   },
   {
     "id": "presente-019",
     "name": "Kit de facas",
     "category": "Cozinha",
-    "price": 190
+    "price": 200
   },
   {
     "id": "presente-020",
@@ -148,7 +148,7 @@ window.WEDDING_GIFTS = [
     "id": "presente-025",
     "name": "Mesa lateral",
     "category": "Sala",
-    "price": 180
+    "price": 200
   },
   {
     "id": "presente-026",
@@ -172,7 +172,7 @@ window.WEDDING_GIFTS = [
     "id": "presente-029",
     "name": "Abajur",
     "category": "Sala",
-    "price": 150
+    "price": 200
   },
   {
     "id": "presente-030",
@@ -190,13 +190,13 @@ window.WEDDING_GIFTS = [
     "id": "presente-032",
     "name": "Almofadas",
     "category": "Sala",
-    "price": 160
+    "price": 200
   },
   {
     "id": "presente-033",
     "name": "Manta para sofá",
     "category": "Sala",
-    "price": 130
+    "price": 200
   },
   {
     "id": "presente-034",
@@ -292,13 +292,13 @@ window.WEDDING_GIFTS = [
     "id": "presente-049",
     "name": "Travesseiros",
     "category": "Quarto",
-    "price": 160
+    "price": 200
   },
   {
     "id": "presente-050",
     "name": "Protetor de colchão",
     "category": "Quarto",
-    "price": 130
+    "price": 200
   },
   {
     "id": "presente-051",
@@ -310,7 +310,7 @@ window.WEDDING_GIFTS = [
     "id": "presente-052",
     "name": "Abajur de cabeceira",
     "category": "Quarto",
-    "price": 160
+    "price": 200
   },
   {
     "id": "presente-053",
@@ -328,25 +328,25 @@ window.WEDDING_GIFTS = [
     "id": "presente-055",
     "name": "Organizadores de gaveta",
     "category": "Quarto",
-    "price": 85
+    "price": 200
   },
   {
     "id": "presente-056",
     "name": "Cabideiro",
     "category": "Quarto",
-    "price": 180
+    "price": 200
   },
   {
     "id": "presente-057",
     "name": "Manta de casal",
     "category": "Quarto",
-    "price": 190
+    "price": 200
   },
   {
     "id": "presente-058",
     "name": "Jogo de fronhas",
     "category": "Quarto",
-    "price": 80
+    "price": 200
   },
   {
     "id": "presente-059",
@@ -358,7 +358,7 @@ window.WEDDING_GIFTS = [
     "id": "presente-060",
     "name": "Ventilador de mesa",
     "category": "Quarto",
-    "price": 190
+    "price": 200
   },
   {
     "id": "presente-061",
@@ -370,19 +370,19 @@ window.WEDDING_GIFTS = [
     "id": "presente-062",
     "name": "Toalhas de rosto",
     "category": "Banheiro",
-    "price": 90
+    "price": 200
   },
   {
     "id": "presente-063",
     "name": "Tapete de banheiro",
     "category": "Banheiro",
-    "price": 85
+    "price": 200
   },
   {
     "id": "presente-064",
     "name": "Kit de acessórios",
     "category": "Banheiro",
-    "price": 130
+    "price": 200
   },
   {
     "id": "presente-065",
@@ -400,25 +400,25 @@ window.WEDDING_GIFTS = [
     "id": "presente-067",
     "name": "Prateleiras",
     "category": "Banheiro",
-    "price": 180
+    "price": 200
   },
   {
     "id": "presente-068",
     "name": "Cesto de roupas",
     "category": "Banheiro",
-    "price": 110
+    "price": 200
   },
   {
     "id": "presente-069",
     "name": "Organizador de cosméticos",
     "category": "Banheiro",
-    "price": 95
+    "price": 200
   },
   {
     "id": "presente-070",
     "name": "Suporte de toalhas",
     "category": "Banheiro",
-    "price": 130
+    "price": 200
   },
   {
     "id": "presente-071",
@@ -430,43 +430,43 @@ window.WEDDING_GIFTS = [
     "id": "presente-072",
     "name": "Ducha higiênica",
     "category": "Banheiro",
-    "price": 120
+    "price": 200
   },
   {
     "id": "presente-073",
     "name": "Kit de lixeiras",
     "category": "Banheiro",
-    "price": 90
+    "price": 200
   },
   {
     "id": "presente-074",
     "name": "Nichos organizadores",
     "category": "Banheiro",
-    "price": 110
+    "price": 200
   },
   {
     "id": "presente-075",
     "name": "Cortina de box",
     "category": "Banheiro",
-    "price": 75
+    "price": 200
   },
   {
     "id": "presente-076",
     "name": "Porta-escovas",
     "category": "Banheiro",
-    "price": 45
+    "price": 200
   },
   {
     "id": "presente-077",
     "name": "Porta-sabonete",
     "category": "Banheiro",
-    "price": 40
+    "price": 200
   },
   {
     "id": "presente-078",
     "name": "Escova sanitária",
     "category": "Banheiro",
-    "price": 55
+    "price": 200
   },
   {
     "id": "presente-079",
@@ -478,7 +478,7 @@ window.WEDDING_GIFTS = [
     "id": "presente-080",
     "name": "Toalheiro",
     "category": "Banheiro",
-    "price": 180
+    "price": 200
   },
   {
     "id": "presente-081",
@@ -490,19 +490,19 @@ window.WEDDING_GIFTS = [
     "id": "presente-082",
     "name": "Varal de chão",
     "category": "Lavanderia e casa",
-    "price": 170
+    "price": 200
   },
   {
     "id": "presente-083",
     "name": "Tábua de passar",
     "category": "Lavanderia e casa",
-    "price": 190
+    "price": 200
   },
   {
     "id": "presente-084",
     "name": "Ferro de passar",
     "category": "Lavanderia e casa",
-    "price": 170
+    "price": 200
   },
   {
     "id": "presente-085",
@@ -520,31 +520,31 @@ window.WEDDING_GIFTS = [
     "id": "presente-087",
     "name": "Balde e mop",
     "category": "Lavanderia e casa",
-    "price": 160
+    "price": 200
   },
   {
     "id": "presente-088",
     "name": "Kit de limpeza",
     "category": "Lavanderia e casa",
-    "price": 130
+    "price": 200
   },
   {
     "id": "presente-089",
     "name": "Cesto organizador",
     "category": "Lavanderia e casa",
-    "price": 110
+    "price": 200
   },
   {
     "id": "presente-090",
     "name": "Prateleira multiuso",
     "category": "Lavanderia e casa",
-    "price": 180
+    "price": 200
   },
   {
     "id": "presente-091",
     "name": "Caixa de ferramentas",
     "category": "Lavanderia e casa",
-    "price": 190
+    "price": 200
   },
   {
     "id": "presente-092",
@@ -562,31 +562,31 @@ window.WEDDING_GIFTS = [
     "id": "presente-094",
     "name": "Extensão elétrica",
     "category": "Lavanderia e casa",
-    "price": 65
+    "price": 200
   },
   {
     "id": "presente-095",
     "name": "Filtro de linha",
     "category": "Lavanderia e casa",
-    "price": 75
+    "price": 200
   },
   {
     "id": "presente-096",
     "name": "Lâmpadas LED",
     "category": "Lavanderia e casa",
-    "price": 90
+    "price": 200
   },
   {
     "id": "presente-097",
     "name": "Luminária de teto",
     "category": "Lavanderia e casa",
-    "price": 190
+    "price": 200
   },
   {
     "id": "presente-098",
     "name": "Organizador multiuso",
     "category": "Lavanderia e casa",
-    "price": 110
+    "price": 200
   },
   {
     "id": "presente-099",
@@ -598,6 +598,6 @@ window.WEDDING_GIFTS = [
     "id": "presente-100",
     "name": "Kit de manutenção",
     "category": "Lavanderia e casa",
-    "price": 160
+    "price": 200
   }
 ];
