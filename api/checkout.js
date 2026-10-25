@@ -33,6 +33,7 @@ module.exports = async function handler(req, res) {
       return res.status(400).json({error:"Escolha um valor entre R$ 200 e R$ 100.000."});
     const order_nsu = "casamento-" + crypto.randomUUID();
     const payload = {
+      handle: HANDLE,
       order_nsu,
       items:[{quantity:1,price:amountCents,description:description.slice(0,140)}],
       options:{
