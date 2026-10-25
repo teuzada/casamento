@@ -42,3 +42,6 @@
   .payment-choices .button,.button.full{min-height:54px}
   .checkout{padding:22px 16px}
 }
+
+/* Ajuste fino da foto no celular: subir o retrato sem ampliar. */
+@media(max-width:699px){.hero::before{background-position:center calc(50% - 65px)}}
