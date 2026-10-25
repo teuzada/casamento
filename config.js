@@ -5,7 +5,7 @@ window.WEDDING_CONFIG = {
   pixKeyType: "aleatoria", // aleatoria, cpf, cnpj, email, telefone
   beneficiaryName: "NOME DO RECEBEDOR",
   beneficiaryCity: "CURITIBA",
-  generalMinimum: 1,
+  generalMinimum: 200,
   godparentsMinimum: 1200,
   generalAmounts: [300, 500, 800, 1000, 1500],
   godparentsAmounts: [1200, 1500, 2000, 2500],
