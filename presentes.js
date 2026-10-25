@@ -1,602 +1,603 @@
+/* Valores estimados em reais para itens domésticos de padrão intermediário; não são cotações em tempo real. */
 window.WEDDING_GIFTS = [
   {
     "id": "presente-001",
     "name": "Jogo de panelas",
     "category": "Cozinha",
-    "price": 300
+    "price": 450
   },
   {
     "id": "presente-002",
     "name": "Conjunto de frigideiras",
     "category": "Cozinha",
-    "price": 373
+    "price": 180
   },
   {
     "id": "presente-003",
     "name": "Faqueiro",
     "category": "Cozinha",
-    "price": 446
+    "price": 250
   },
   {
     "id": "presente-004",
     "name": "Aparelho de jantar",
     "category": "Cozinha",
-    "price": 519
+    "price": 320
   },
   {
     "id": "presente-005",
     "name": "Jogo de copos",
     "category": "Cozinha",
-    "price": 592
+    "price": 90
   },
   {
     "id": "presente-006",
     "name": "Kit de utensílios",
     "category": "Cozinha",
-    "price": 665
+    "price": 110
   },
   {
     "id": "presente-007",
     "name": "Potes herméticos",
     "category": "Cozinha",
-    "price": 738
+    "price": 130
   },
   {
     "id": "presente-008",
     "name": "Escorredor de louça",
     "category": "Cozinha",
-    "price": 811
+    "price": 85
   },
   {
     "id": "presente-009",
     "name": "Liquidificador",
     "category": "Cozinha",
-    "price": 884
+    "price": 230
   },
   {
     "id": "presente-010",
     "name": "Batedeira",
     "category": "Cozinha",
-    "price": 957
+    "price": 280
   },
   {
     "id": "presente-011",
     "name": "Cafeteira",
     "category": "Cozinha",
-    "price": 1030
+    "price": 240
   },
   {
     "id": "presente-012",
     "name": "Sanduicheira",
     "category": "Cozinha",
-    "price": 1103
+    "price": 130
   },
   {
     "id": "presente-013",
     "name": "Air fryer",
     "category": "Cozinha",
-    "price": 1176
+    "price": 480
   },
   {
     "id": "presente-014",
     "name": "Panela elétrica",
     "category": "Cozinha",
-    "price": 348
+    "price": 270
   },
   {
     "id": "presente-015",
     "name": "Forno elétrico",
     "category": "Cozinha",
-    "price": 421
+    "price": 550
   },
   {
     "id": "presente-016",
     "name": "Micro-ondas",
     "category": "Cozinha",
-    "price": 494
+    "price": 750
   },
   {
     "id": "presente-017",
     "name": "Purificador de água",
     "category": "Cozinha",
-    "price": 567
+    "price": 650
   },
   {
     "id": "presente-018",
     "name": "Jogo de assadeiras",
     "category": "Cozinha",
-    "price": 640
+    "price": 150
   },
   {
     "id": "presente-019",
     "name": "Kit de facas",
     "category": "Cozinha",
-    "price": 713
+    "price": 190
   },
   {
     "id": "presente-020",
     "name": "Carrinho auxiliar",
     "category": "Cozinha",
-    "price": 786
+    "price": 220
   },
   {
     "id": "presente-021",
     "name": "Sofá",
     "category": "Sala",
-    "price": 859
+    "price": 2300
   },
   {
     "id": "presente-022",
     "name": "Rack para TV",
     "category": "Sala",
-    "price": 932
+    "price": 550
   },
   {
     "id": "presente-023",
     "name": "Painel para TV",
     "category": "Sala",
-    "price": 1005
+    "price": 420
   },
   {
     "id": "presente-024",
     "name": "Mesa de centro",
     "category": "Sala",
-    "price": 1078
+    "price": 380
   },
   {
     "id": "presente-025",
     "name": "Mesa lateral",
     "category": "Sala",
-    "price": 1151
+    "price": 180
   },
   {
     "id": "presente-026",
     "name": "Tapete",
     "category": "Sala",
-    "price": 323
+    "price": 420
   },
   {
     "id": "presente-027",
     "name": "Cortinas",
     "category": "Sala",
-    "price": 396
+    "price": 300
   },
   {
     "id": "presente-028",
     "name": "Luminária de piso",
     "category": "Sala",
-    "price": 469
+    "price": 320
   },
   {
     "id": "presente-029",
     "name": "Abajur",
     "category": "Sala",
-    "price": 542
+    "price": 150
   },
   {
     "id": "presente-030",
     "name": "Espelho decorativo",
     "category": "Sala",
-    "price": 615
+    "price": 240
   },
   {
     "id": "presente-031",
     "name": "Quadros decorativos",
     "category": "Sala",
-    "price": 688
+    "price": 220
   },
   {
     "id": "presente-032",
     "name": "Almofadas",
     "category": "Sala",
-    "price": 761
+    "price": 160
   },
   {
     "id": "presente-033",
     "name": "Manta para sofá",
     "category": "Sala",
-    "price": 834
+    "price": 130
   },
   {
     "id": "presente-034",
     "name": "Estante",
     "category": "Sala",
-    "price": 907
+    "price": 650
   },
   {
     "id": "presente-035",
     "name": "Poltrona",
     "category": "Sala",
-    "price": 980
+    "price": 850
   },
   {
     "id": "presente-036",
     "name": "Pufe",
     "category": "Sala",
-    "price": 1053
+    "price": 240
   },
   {
     "id": "presente-037",
     "name": "Mesa de jantar",
     "category": "Sala",
-    "price": 1126
+    "price": 1300
   },
   {
     "id": "presente-038",
     "name": "Cadeiras de jantar",
     "category": "Sala",
-    "price": 1199
+    "price": 850
   },
   {
     "id": "presente-039",
     "name": "Aparador",
     "category": "Sala",
-    "price": 371
+    "price": 520
   },
   {
     "id": "presente-040",
     "name": "Ventilador",
     "category": "Sala",
-    "price": 444
+    "price": 260
   },
   {
     "id": "presente-041",
     "name": "Cama box",
     "category": "Quarto",
-    "price": 517
+    "price": 1100
   },
   {
     "id": "presente-042",
     "name": "Colchão",
     "category": "Quarto",
-    "price": 590
+    "price": 1250
   },
   {
     "id": "presente-043",
     "name": "Cabeceira",
     "category": "Quarto",
-    "price": 663
+    "price": 520
   },
   {
     "id": "presente-044",
     "name": "Criado-mudo",
     "category": "Quarto",
-    "price": 736
+    "price": 250
   },
   {
     "id": "presente-045",
     "name": "Cômoda",
     "category": "Quarto",
-    "price": 809
+    "price": 720
   },
   {
     "id": "presente-046",
     "name": "Guarda-roupa",
     "category": "Quarto",
-    "price": 882
+    "price": 1650
   },
   {
     "id": "presente-047",
     "name": "Jogo de lençóis",
     "category": "Quarto",
-    "price": 955
+    "price": 220
   },
   {
     "id": "presente-048",
     "name": "Edredom",
     "category": "Quarto",
-    "price": 1028
+    "price": 320
   },
   {
     "id": "presente-049",
     "name": "Travesseiros",
     "category": "Quarto",
-    "price": 1101
+    "price": 160
   },
   {
     "id": "presente-050",
     "name": "Protetor de colchão",
     "category": "Quarto",
-    "price": 1174
+    "price": 130
   },
   {
     "id": "presente-051",
     "name": "Cortina blackout",
     "category": "Quarto",
-    "price": 346
+    "price": 290
   },
   {
     "id": "presente-052",
     "name": "Abajur de cabeceira",
     "category": "Quarto",
-    "price": 419
+    "price": 160
   },
   {
     "id": "presente-053",
     "name": "Espelho de corpo inteiro",
     "category": "Quarto",
-    "price": 492
+    "price": 350
   },
   {
     "id": "presente-054",
     "name": "Sapateira",
     "category": "Quarto",
-    "price": 565
+    "price": 420
   },
   {
     "id": "presente-055",
     "name": "Organizadores de gaveta",
     "category": "Quarto",
-    "price": 638
+    "price": 85
   },
   {
     "id": "presente-056",
     "name": "Cabideiro",
     "category": "Quarto",
-    "price": 711
+    "price": 180
   },
   {
     "id": "presente-057",
     "name": "Manta de casal",
     "category": "Quarto",
-    "price": 784
+    "price": 190
   },
   {
     "id": "presente-058",
     "name": "Jogo de fronhas",
     "category": "Quarto",
-    "price": 857
+    "price": 80
   },
   {
     "id": "presente-059",
     "name": "Tapete de quarto",
     "category": "Quarto",
-    "price": 930
+    "price": 230
   },
   {
     "id": "presente-060",
     "name": "Ventilador de mesa",
     "category": "Quarto",
-    "price": 1003
+    "price": 190
   },
   {
     "id": "presente-061",
     "name": "Jogo de toalhas",
     "category": "Banheiro",
-    "price": 1076
+    "price": 290
   },
   {
     "id": "presente-062",
     "name": "Toalhas de rosto",
     "category": "Banheiro",
-    "price": 1149
+    "price": 90
   },
   {
     "id": "presente-063",
     "name": "Tapete de banheiro",
     "category": "Banheiro",
-    "price": 321
+    "price": 85
   },
   {
     "id": "presente-064",
     "name": "Kit de acessórios",
     "category": "Banheiro",
-    "price": 394
+    "price": 130
   },
   {
     "id": "presente-065",
     "name": "Espelho de banheiro",
     "category": "Banheiro",
-    "price": 467
+    "price": 230
   },
   {
     "id": "presente-066",
     "name": "Armário de banheiro",
     "category": "Banheiro",
-    "price": 540
+    "price": 620
   },
   {
     "id": "presente-067",
     "name": "Prateleiras",
     "category": "Banheiro",
-    "price": 613
+    "price": 180
   },
   {
     "id": "presente-068",
     "name": "Cesto de roupas",
     "category": "Banheiro",
-    "price": 686
+    "price": 110
   },
   {
     "id": "presente-069",
     "name": "Organizador de cosméticos",
     "category": "Banheiro",
-    "price": 759
+    "price": 95
   },
   {
     "id": "presente-070",
     "name": "Suporte de toalhas",
     "category": "Banheiro",
-    "price": 832
+    "price": 130
   },
   {
     "id": "presente-071",
     "name": "Chuveiro",
     "category": "Banheiro",
-    "price": 905
+    "price": 230
   },
   {
     "id": "presente-072",
     "name": "Ducha higiênica",
     "category": "Banheiro",
-    "price": 978
+    "price": 120
   },
   {
     "id": "presente-073",
     "name": "Kit de lixeiras",
     "category": "Banheiro",
-    "price": 1051
+    "price": 90
   },
   {
     "id": "presente-074",
     "name": "Nichos organizadores",
     "category": "Banheiro",
-    "price": 1124
+    "price": 110
   },
   {
     "id": "presente-075",
     "name": "Cortina de box",
     "category": "Banheiro",
-    "price": 1197
+    "price": 75
   },
   {
     "id": "presente-076",
     "name": "Porta-escovas",
     "category": "Banheiro",
-    "price": 369
+    "price": 45
   },
   {
     "id": "presente-077",
     "name": "Porta-sabonete",
     "category": "Banheiro",
-    "price": 442
+    "price": 40
   },
   {
     "id": "presente-078",
     "name": "Escova sanitária",
     "category": "Banheiro",
-    "price": 515
+    "price": 55
   },
   {
     "id": "presente-079",
     "name": "Roupões",
     "category": "Banheiro",
-    "price": 588
+    "price": 280
   },
   {
     "id": "presente-080",
     "name": "Toalheiro",
     "category": "Banheiro",
-    "price": 661
+    "price": 180
   },
   {
     "id": "presente-081",
     "name": "Máquina de lavar",
     "category": "Lavanderia e casa",
-    "price": 734
+    "price": 2600
   },
   {
     "id": "presente-082",
     "name": "Varal de chão",
     "category": "Lavanderia e casa",
-    "price": 807
+    "price": 170
   },
   {
     "id": "presente-083",
     "name": "Tábua de passar",
     "category": "Lavanderia e casa",
-    "price": 880
+    "price": 190
   },
   {
     "id": "presente-084",
     "name": "Ferro de passar",
     "category": "Lavanderia e casa",
-    "price": 953
+    "price": 170
   },
   {
     "id": "presente-085",
     "name": "Aspirador de pó",
     "category": "Lavanderia e casa",
-    "price": 1026
+    "price": 390
   },
   {
     "id": "presente-086",
     "name": "Vassoura elétrica",
     "category": "Lavanderia e casa",
-    "price": 1099
+    "price": 290
   },
   {
     "id": "presente-087",
     "name": "Balde e mop",
     "category": "Lavanderia e casa",
-    "price": 1172
+    "price": 160
   },
   {
     "id": "presente-088",
     "name": "Kit de limpeza",
     "category": "Lavanderia e casa",
-    "price": 344
+    "price": 130
   },
   {
     "id": "presente-089",
     "name": "Cesto organizador",
     "category": "Lavanderia e casa",
-    "price": 417
+    "price": 110
   },
   {
     "id": "presente-090",
     "name": "Prateleira multiuso",
     "category": "Lavanderia e casa",
-    "price": 490
+    "price": 180
   },
   {
     "id": "presente-091",
     "name": "Caixa de ferramentas",
     "category": "Lavanderia e casa",
-    "price": 563
+    "price": 190
   },
   {
     "id": "presente-092",
     "name": "Furadeira",
     "category": "Lavanderia e casa",
-    "price": 636
+    "price": 280
   },
   {
     "id": "presente-093",
     "name": "Escada doméstica",
     "category": "Lavanderia e casa",
-    "price": 709
+    "price": 230
   },
   {
     "id": "presente-094",
     "name": "Extensão elétrica",
     "category": "Lavanderia e casa",
-    "price": 782
+    "price": 65
   },
   {
     "id": "presente-095",
     "name": "Filtro de linha",
     "category": "Lavanderia e casa",
-    "price": 855
+    "price": 75
   },
   {
     "id": "presente-096",
     "name": "Lâmpadas LED",
     "category": "Lavanderia e casa",
-    "price": 928
+    "price": 90
   },
   {
     "id": "presente-097",
     "name": "Luminária de teto",
     "category": "Lavanderia e casa",
-    "price": 1001
+    "price": 190
   },
   {
     "id": "presente-098",
     "name": "Organizador multiuso",
     "category": "Lavanderia e casa",
-    "price": 1074
+    "price": 110
   },
   {
     "id": "presente-099",
     "name": "Armário de serviço",
     "category": "Lavanderia e casa",
-    "price": 1147
+    "price": 590
   },
   {
     "id": "presente-100",
     "name": "Kit de manutenção",
     "category": "Lavanderia e casa",
-    "price": 319
+    "price": 160
   }
 ];
