@@ -601,3 +601,4 @@ window.WEDDING_GIFTS = [
     "price": 200
   }
 ];
+window.WEDDING_GIFTS.push(...[{"id":"lembrancinha-pano","name":"Pano de chão da felicidade","category":"Lembrancinhas divertidas","price":29,"fun":true},{"id":"lembrancinha-esponja","name":"Esponja anti-briga pela louça","category":"Lembrancinhas divertidas","price":39,"fun":true},{"id":"lembrancinha-pregadores","name":"Pregadores para segurar esse amor","category":"Lembrancinhas divertidas","price":49,"fun":true}]);
