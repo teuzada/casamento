@@ -54,10 +54,22 @@ module.exports = async function handler(req, res) {
       return res.status(502).json({error:"Não foi possível iniciar o pagamento. Tente novamente em instantes."});
     }
     const result = await response.json();
+    const keys = result && typeof result === "object" && !Array.isArray(result) ? Object.keys(result).slice(0,12) : [];
+    // Nunca inclua a URL integral nos logs: o link pode conter um token de pagamento.
+    const urlCandidates = [result?.url, result?.checkout_url, result?.payment_url, result?.link];
+    const link = urlCandidates.find(value => typeof value === "string" && value.length > 0);
     let destination;
-    try { destination = new URL(result.url); } catch (_) {}
-    if (!destination || destination.protocol !== "https:" || !/^(checkout|buy|pay)\.infinitepay\.(io|com\.br)$/.test(destination.hostname))
-      { console.error("InfinitePay returned unexpected checkout host",destination?.hostname||"missing-url",Object.keys(result||{})); return res.status(502).json({error:"A InfinitePay retornou um endereço não reconhecido. Confira os logs da Vercel."}); }
+    try { destination = new URL(link); } catch (_) {}
+    const host = destination?.hostname || null;
+    const validHost = host && /^(?:[a-z0-9-]+\.)*infinitepay\.(?:io|com\.br)$/.test(host);
+    if (!destination || destination.protocol !== "https:" || !validHost) {
+      const reason = !link ? "missing_url" : !destination ? "malformed_url" : "unexpected_host";
+      console.error("InfinitePay checkout response diagnosis",JSON.stringify({reason,host,keys}));
+      return res.status(502).json({
+        error:"A InfinitePay não retornou um endereço de pagamento reconhecido.",
+        diagnostic:{reason,host,keys}
+      });
+    }
     return res.status(200).json({url:destination.href});
   } catch (error) {
     console.error("Checkout integration error",error && error.message);
