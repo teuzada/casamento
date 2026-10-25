@@ -57,7 +57,7 @@ async function pay(method) {
     const result=await response.json().catch(()=>({}));
     if(!response.ok||!result.url)throw new Error(result.error||"Não foi possível criar o pagamento.");
     const url=new URL(result.url);
-    if(url.protocol!=="https:"||url.hostname!=="checkout.infinitepay.com.br")throw new Error("Link de pagamento inválido.");
+    if(url.protocol!=="https:"||!/^(checkout|buy|pay)\.infinitepay\.(io|com\.br)$/.test(url.hostname))throw new Error("Link de pagamento inválido.");
     window.location.assign(url.href);
   }catch(error){
     notice.textContent=error.message||"Não foi possível acessar o pagamento. Tente novamente.";
