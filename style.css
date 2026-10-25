@@ -26,3 +26,19 @@
 .hero .hero-content{z-index:2;position:relative}
 @media(min-width:900px){.hero .hero-content{margin:0 auto 0 0;max-width:460px}.hero::before{background-position:60% center}}
 @media(max-width:699px){.hero{min-height:88svh;padding-bottom:30px}.hero::before{background-size:contain;background-position:center center}.hero .hero-content{max-width:100%}}
+
+/* Prioridade: acesso pelo celular, sem ampliar a foto vertical */
+@media(max-width:699px){
+  .hero{min-height:100svh;padding:20px 16px max(30px,env(safe-area-inset-bottom));align-items:flex-end}
+  .hero::before{background-size:contain;background-position:center center}
+  .hero .hero-content{width:100%;padding:18px 16px;max-width:100%;background:rgba(24,17,15,.48);backdrop-filter:blur(2px);-webkit-backdrop-filter:blur(2px)}
+  .hero h1{font-size:clamp(2.1rem,9vw,3.15rem);line-height:1.12}
+  .hero .button{width:100%;min-height:54px}
+  .gift-section{margin:0 10px;padding:28px 14px;border-radius:20px}
+  .gift-grid{gap:10px}
+  .gift-option{min-height:112px;padding:16px 9px}
+  .gift-option strong{font-size:1.12rem}
+  .gift-tools input,.gift-tools select,.form-grid input,.form-grid textarea{font-size:16px}
+  .payment-choices .button,.button.full{min-height:54px}
+  .checkout{padding:22px 16px}
+}
