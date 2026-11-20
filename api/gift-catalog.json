@@ -1,9 +1,9 @@
 [
   {
     "id": "presente-001",
-    "name": "Jogo de Panelas Naturalle 5 Peças Brinox - Champanhe",
-    "category": "Cozinha",
-    "price": 299.9
+    "name": "Edredom Casal Toque de Pluma Buona Fortuna 2,20X2,40M Havan Casa - Branco",
+    "category": "Quarto",
+    "price": 449.9
   },
   {
     "id": "presente-003",
@@ -31,9 +31,9 @@
   },
   {
     "id": "presente-013",
-    "name": "Jogo de Panelas 5 Peças Studio Cook Marmol Mimo Style - Marmol",
-    "category": "Cozinha",
-    "price": 399.9
+    "name": "Edredom Queen Toque de Pluma Buona Fortuna 2,40X2,60M Havan Casa - Branco",
+    "category": "Quarto",
+    "price": 499.9
   },
   {
     "id": "presente-014",
@@ -43,9 +43,9 @@
   },
   {
     "id": "presente-015",
-    "name": "Jogo de Panelas Aura Mta 7 Peças - Baunilha",
-    "category": "Cozinha",
-    "price": 399.9
+    "name": "Jogo de Cama Casal Percal Buona Fortuna 4 pçs - Agatha Azul",
+    "category": "Quarto",
+    "price": 249.99
   },
   {
     "id": "presente-016",
@@ -55,9 +55,9 @@
   },
   {
     "id": "presente-017",
-    "name": "Jogo De Panelas Cava 5 Peças - Grafite",
-    "category": "Cozinha",
-    "price": 399.9
+    "name": "Edredom Casal 100% Algodão Buona Fortuna - Agatha Azul",
+    "category": "Quarto",
+    "price": 299.99
   },
   {
     "id": "presente-021",
@@ -73,81 +73,81 @@
   },
   {
     "id": "presente-023",
-    "name": "Jogo de Panelas Indução Granito Chef Lyor 5 Peças - Off White",
-    "category": "Cozinha",
-    "price": 499.9
+    "name": "Jogo de Cama Casal Percal Buona Fortuna 4 pçs - Ravi Azul",
+    "category": "Quarto",
+    "price": 249.99
   },
   {
     "id": "presente-024",
-    "name": "Jogo de Panelas Ceramic Life Primea 5 Peças Brinox - Cappuccino",
-    "category": "Cozinha",
-    "price": 499.9
+    "name": "Edredom Casal 100% Algodão Buona Fortuna - Ravi Azul Novo",
+    "category": "Quarto",
+    "price": 299.99
   },
   {
     "id": "presente-026",
-    "name": "Jogo de Panelas de Indução Smart Plus Flat 5 Peças Brinox - Vanilla",
-    "category": "Cozinha",
-    "price": 499.9
+    "name": "Jogo de Cama Queen Percal Buona Fortuna 3 pçs - Patrick Azul",
+    "category": "Quarto",
+    "price": 219.99
   },
   {
     "id": "presente-027",
-    "name": "Jogo de Panelas com Cabo Removível Fit 10 Peças Brinox - Areia",
-    "category": "Cozinha",
-    "price": 499.9
+    "name": "Edredom Queen/King 100% Algodão Buona Fortuna - Cru Liso Novo",
+    "category": "Quarto",
+    "price": 329.99
   },
   {
     "id": "presente-028",
-    "name": "Jogo De Panelas Tramontina Indução Allegra 4 Peças - Inox",
-    "category": "Cozinha",
-    "price": 499.9
+    "name": "Carrinho Requinte 71,5X74,5Cm Havan Casa",
+    "category": "Sala",
+    "price": 599.9
   },
   {
     "id": "presente-030",
-    "name": "Jogo de Panelas Rochedo Natural Stone 5 Peças - Grafite",
-    "category": "Cozinha",
-    "price": 599.9
+    "name": "Puff Orgânico Madri Havan Casa - Off White",
+    "category": "Sala",
+    "price": 219.99
   },
   {
     "id": "presente-031",
-    "name": "Jogo de Panelas Pratic Cook Grafito Mimo Style 6 Peças - GRAFITO",
-    "category": "Cozinha",
-    "price": 599.9
+    "name": "Mesa de Centro Paris Havan Casa - MDF",
+    "category": "Sala",
+    "price": 219.99
   },
   {
     "id": "presente-034",
-    "name": "Jogo de Panelas Suprema Brinox 7 Peças - Vanilla",
-    "category": "Cozinha",
-    "price": 599.9
+    "name": "Puff Multiuso Jakarta 39X41cm Havan Casa - Marrom",
+    "category": "Sala",
+    "price": 299.9
   },
   {
     "id": "presente-035",
-    "name": "Jogo de Panelas Tramontina Milazzo Starflon Max Amêndoa - 7 Peças",
-    "category": "Cozinha",
-    "price": 599.9
+    "name": "Tapete para Quarto e Sala 2,00X3,00M Provence Havan Casa - Listras Bege",
+    "category": "Sala",
+    "price": 1399.9
   },
   {
     "id": "presente-036",
-    "name": "Jogo de Panelas Sicília Tramontina 5 Peças - Avelã",
-    "category": "Cozinha",
-    "price": 599.9
+    "name": "Tapete para Quarto e Sala 1,50X2,00 m Solano Havan Casa - Cinza",
+    "category": "Sala",
+    "price": 299.9
   },
   {
     "id": "presente-037",
-    "name": "Jogo De Panelas Brinox Ceramic Life Smart Plus 5 Peças - Mocha Mousse",
-    "category": "Cozinha",
-    "price": 599.9
+    "name": "Tapete para Quarto e Sala Livorno 1,40X2,00M Havan Casa - Cinza Claro",
+    "category": "Sala",
+    "price": 299.9
   },
   {
     "id": "presente-038",
-    "name": "Jogo de Panelas Indução Tunis Tramontina 5 Peças - Marrom",
-    "category": "Cozinha",
-    "price": 599.9
+    "name": "Tapete para Quarto e Sala 2,00X3,00M Nirvana Havan Casa - Cinza Bege",
+    "category": "Sala",
+    "price": 899.9
   },
   {
     "id": "presente-039",
-    "name": "Jogo de Panelas Tramontina Mendoza Indução Starflon Excellent - 5 Peças",
-    "category": "Cozinha",
-    "price": 699.9
+    "name": "Cortina Quarto e Sala Duplex Firenze Bordada 3,00X2,30M Havan Casa - Elegance Branco",
+    "category": "Sala",
+    "price": 269.99
   },
   {
     "id": "presente-040",
