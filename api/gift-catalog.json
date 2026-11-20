@@ -7,9 +7,9 @@
   },
   {
     "id": "presente-003",
-    "name": "Jogo de Panelas Linz Tramontina 5 Peças - Mocaccino",
+    "name": "Sanduicheira Grill Inox Philco PGR02I",
     "category": "Cozinha",
-    "price": 299.9
+    "price": 279.9
   },
   {
     "id": "presente-009",
@@ -19,7 +19,7 @@
   },
   {
     "id": "presente-010",
-    "name": "Jogo Panela Califórnia Tramontina 5Pçs - Vermelho",
+    "name": "Sanduicheira e Grill Philco Ultra Maxx Troca Chapa PGR17PI",
     "category": "Cozinha",
     "price": 299.9
   },
@@ -37,9 +37,9 @@
   },
   {
     "id": "presente-014",
-    "name": "Jogo de Panela Tramontina Califórnia 7 Peças - Baunilha",
+    "name": "Grill e Sanduicheira Britânia 2 em 1 com Abertura 180º BGR28A",
     "category": "Cozinha",
-    "price": 399.9
+    "price": 229.9
   },
   {
     "id": "presente-015",
@@ -49,7 +49,7 @@
   },
   {
     "id": "presente-016",
-    "name": "Jogo de Panela Tramontina Califórnia 7 Peças - Preto/Vermelho",
+    "name": "Grill Elétrico Multiuso 2 em 1 Oster OGRL610",
     "category": "Cozinha",
     "price": 399.9
   },
@@ -61,13 +61,13 @@
   },
   {
     "id": "presente-021",
-    "name": "Jogo de Panela Tramontina Califórnia 7 Peças - Bordô",
+    "name": "Waffle Maker Philco 5 Temperaturas 4 Waffles PWM04A",
     "category": "Cozinha",
     "price": 399.9
   },
   {
     "id": "presente-022",
-    "name": "Jogo de Panela Tramontina Califórnia 7 Peças - Grafite",
+    "name": "Grill Press 180 Britânia",
     "category": "Cozinha",
     "price": 399.9
   },
@@ -199,9 +199,9 @@
   },
   {
     "id": "presente-048",
-    "name": "Faqueiro Inox Viena Wolff 30 Peças - Champanhe",
-    "category": "Mesa posta",
-    "price": 399.9
+    "name": "Grill Philco 2 em 1 PGR19 Redstone 5 níveis de Temperatura",
+    "category": "Cozinha",
+    "price": 349.9
   },
   {
     "id": "presente-061",
@@ -277,9 +277,9 @@
   },
   {
     "id": "presente-113",
-    "name": "Jogo de Jantar Ryo Maresia Oxford 16 Peças",
-    "category": "Mesa posta",
-    "price": 499.9
+    "name": "Sanduicheira e Grill Elétrico Multiuso Oster OGRL210",
+    "category": "Cozinha",
+    "price": 399.9
   },
   {
     "id": "presente-114",
@@ -415,7 +415,7 @@
   },
   {
     "id": "presente-148",
-    "name": "Liquidificador Arno Power Max Marfim LN64",
+    "name": "Top Grill Antiaderente BPE01 1200W Preto Britânia",
     "category": "Cozinha",
     "price": 299.9
   },
