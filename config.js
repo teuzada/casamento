@@ -6,8 +6,8 @@ window.WEDDING_CONFIG = {
   beneficiaryName: "NOME DO RECEBEDOR",
   beneficiaryCity: "CURITIBA",
   generalMinimum: 200,
-  godparentsMinimum: 1200,
+  godparentsMinimum: 1500,
   generalAmounts: [300, 500, 800, 1000, 1500],
-  godparentsAmounts: [1200, 1500, 2000, 2500],
+  godparentsAmounts: [1500, 2000, 2500, 3000],
   storageKey: "wedding_gifts_local_v1"
 };
