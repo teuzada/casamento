@@ -13,12 +13,6 @@ window.WEDDING_GIFTS = [
     "price": 250
   },
   {
-    "id": "presente-004",
-    "name": "Aparelho de jantar",
-    "category": "Cozinha",
-    "price": 320
-  },
-  {
     "id": "presente-009",
     "name": "Liquidificador",
     "category": "Cozinha",
@@ -67,12 +61,6 @@ window.WEDDING_GIFTS = [
     "price": 650
   },
   {
-    "id": "presente-020",
-    "name": "Jogo de assadeiras",
-    "category": "Cozinha",
-    "price": 280
-  },
-  {
     "id": "presente-021",
     "name": "Sofá",
     "category": "Sala",
@@ -94,19 +82,19 @@ window.WEDDING_GIFTS = [
     "id": "presente-024",
     "name": "Mesa de centro",
     "category": "Sala",
-    "price": 380
+    "price": 390
   },
   {
     "id": "presente-026",
     "name": "Tapete",
     "category": "Sala",
-    "price": 420
+    "price": 215
   },
   {
     "id": "presente-027",
     "name": "Cortinas",
     "category": "Sala",
-    "price": 300
+    "price": 205
   },
   {
     "id": "presente-028",
@@ -136,7 +124,7 @@ window.WEDDING_GIFTS = [
     "id": "presente-035",
     "name": "Poltrona",
     "category": "Sala",
-    "price": 850
+    "price": 375
   },
   {
     "id": "presente-036",
@@ -214,61 +202,13 @@ window.WEDDING_GIFTS = [
     "id": "presente-048",
     "name": "Edredom",
     "category": "Quarto",
-    "price": 320
-  },
-  {
-    "id": "presente-051",
-    "name": "Cortina blackout",
-    "category": "Quarto",
-    "price": 290
-  },
-  {
-    "id": "presente-053",
-    "name": "Espelho de corpo inteiro",
-    "category": "Quarto",
-    "price": 350
-  },
-  {
-    "id": "presente-054",
-    "name": "Sapateira",
-    "category": "Quarto",
-    "price": 420
-  },
-  {
-    "id": "presente-059",
-    "name": "Tapete de quarto",
-    "category": "Quarto",
-    "price": 230
+    "price": 210
   },
   {
     "id": "presente-061",
     "name": "Jogo de toalhas",
     "category": "Banheiro",
-    "price": 290
-  },
-  {
-    "id": "presente-065",
-    "name": "Espelho de banheiro",
-    "category": "Banheiro",
-    "price": 230
-  },
-  {
-    "id": "presente-066",
-    "name": "Armário de banheiro",
-    "category": "Banheiro",
-    "price": 620
-  },
-  {
-    "id": "presente-071",
-    "name": "Chuveiro",
-    "category": "Banheiro",
-    "price": 230
-  },
-  {
-    "id": "presente-079",
-    "name": "Roupões",
-    "category": "Banheiro",
-    "price": 280
+    "price": 225
   },
   {
     "id": "presente-081",
@@ -280,31 +220,13 @@ window.WEDDING_GIFTS = [
     "id": "presente-085",
     "name": "Aspirador de pó",
     "category": "Lavanderia e casa",
-    "price": 390
+    "price": 250
   },
   {
     "id": "presente-086",
     "name": "Ferro de passar roupa",
     "category": "Lavanderia e casa",
     "price": 290
-  },
-  {
-    "id": "presente-092",
-    "name": "Furadeira",
-    "category": "Lavanderia e casa",
-    "price": 280
-  },
-  {
-    "id": "presente-093",
-    "name": "Escada doméstica",
-    "category": "Lavanderia e casa",
-    "price": 230
-  },
-  {
-    "id": "presente-099",
-    "name": "Armário de serviço",
-    "category": "Lavanderia e casa",
-    "price": 590
   },
   {
     "id": "presente-101",
@@ -319,12 +241,6 @@ window.WEDDING_GIFTS = [
     "price": 1800
   },
   {
-    "id": "presente-103",
-    "name": "Cooktop",
-    "category": "Cozinha",
-    "price": 850
-  },
-  {
     "id": "presente-104",
     "name": "Coifa ou depurador",
     "category": "Cozinha",
@@ -337,28 +253,10 @@ window.WEDDING_GIFTS = [
     "price": 230
   },
   {
-    "id": "presente-106",
-    "name": "Torradeira",
-    "category": "Cozinha",
-    "price": 240
-  },
-  {
     "id": "presente-107",
     "name": "Chaleira elétrica",
     "category": "Cozinha",
     "price": 230
-  },
-  {
-    "id": "presente-108",
-    "name": "Mixer de mão",
-    "category": "Cozinha",
-    "price": 260
-  },
-  {
-    "id": "presente-109",
-    "name": "Processador de alimentos",
-    "category": "Cozinha",
-    "price": 380
   },
   {
     "id": "presente-110",
@@ -430,13 +328,7 @@ window.WEDDING_GIFTS = [
     "id": "presente-121",
     "name": "Jogo de formas para bolo",
     "category": "Cozinha",
-    "price": 250
-  },
-  {
-    "id": "presente-122",
-    "name": "Conjunto de refratários de vidro",
-    "category": "Cozinha",
-    "price": 280
+    "price": 200
   },
   {
     "id": "presente-123",
@@ -448,7 +340,7 @@ window.WEDDING_GIFTS = [
     "id": "presente-124",
     "name": "Toalha de mesa",
     "category": "Cozinha",
-    "price": 230
+    "price": 200
   },
   {
     "id": "presente-125",
@@ -478,31 +370,13 @@ window.WEDDING_GIFTS = [
     "id": "presente-129",
     "name": "Jogo de toalhas de rosto",
     "category": "Banheiro",
-    "price": 220
-  },
-  {
-    "id": "presente-130",
-    "name": "Tapete de banheiro",
-    "category": "Banheiro",
-    "price": 220
-  },
-  {
-    "id": "presente-131",
-    "name": "Kit de acessórios para banheiro",
-    "category": "Banheiro",
-    "price": 250
-  },
-  {
-    "id": "presente-132",
-    "name": "Cesto de roupa suja",
-    "category": "Lavanderia e casa",
-    "price": 230
+    "price": 202
   },
   {
     "id": "presente-133",
     "name": "Varal de chão",
     "category": "Lavanderia e casa",
-    "price": 250
+    "price": 285
   },
   {
     "id": "presente-134",
@@ -517,46 +391,10 @@ window.WEDDING_GIFTS = [
     "price": 230
   },
   {
-    "id": "presente-136",
-    "name": "Jogo de baldes e bacias",
-    "category": "Lavanderia e casa",
-    "price": 220
-  },
-  {
-    "id": "presente-137",
-    "name": "Kit de organização para lavanderia",
-    "category": "Lavanderia e casa",
-    "price": 240
-  },
-  {
-    "id": "presente-138",
-    "name": "Jogo de fronhas",
-    "category": "Quarto",
-    "price": 220
-  },
-  {
-    "id": "presente-139",
-    "name": "Protetor de colchão",
-    "category": "Quarto",
-    "price": 250
-  },
-  {
-    "id": "presente-140",
-    "name": "Jogo de travesseiros",
-    "category": "Quarto",
-    "price": 280
-  },
-  {
-    "id": "presente-141",
-    "name": "Cobertor de casal",
-    "category": "Quarto",
-    "price": 260
-  },
-  {
     "id": "presente-142",
     "name": "Manta para sofá",
     "category": "Sala",
-    "price": 240
+    "price": 228
   },
   {
     "id": "presente-143",
@@ -568,19 +406,7 @@ window.WEDDING_GIFTS = [
     "id": "presente-144",
     "name": "Luminária de mesa",
     "category": "Quarto",
-    "price": 230
-  },
-  {
-    "id": "presente-145",
-    "name": "Abajur de cabeceira",
-    "category": "Quarto",
-    "price": 240
-  },
-  {
-    "id": "presente-146",
-    "name": "Organizadores de gaveta",
-    "category": "Quarto",
-    "price": 230
+    "price": 203
   },
   {
     "id": "presente-147",
@@ -592,19 +418,7 @@ window.WEDDING_GIFTS = [
     "id": "presente-148",
     "name": "Mesa lateral para sofá",
     "category": "Sala",
-    "price": 320
-  },
-  {
-    "id": "presente-149",
-    "name": "Relógio de parede",
-    "category": "Sala",
-    "price": 220
-  },
-  {
-    "id": "presente-150",
-    "name": "Kit de ferramentas domésticas",
-    "category": "Lavanderia e casa",
-    "price": 260
+    "price": 283
   },
   {
     "id": "presente-151",
