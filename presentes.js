@@ -1,4 +1,4 @@
-/* Presentes simbólicos do primeiro lar. Itens de R$ 200 removidos da lista. */
+/* Lista de presentes simbólicos do primeiro lar. Valores em reais; checkout validado no servidor. */
 window.WEDDING_GIFTS = [
   {
     "id": "presente-001",
@@ -68,9 +68,9 @@ window.WEDDING_GIFTS = [
   },
   {
     "id": "presente-020",
-    "name": "Carrinho auxiliar",
+    "name": "Jogo de assadeiras",
     "category": "Cozinha",
-    "price": 220
+    "price": 280
   },
   {
     "id": "presente-021",
@@ -110,9 +110,9 @@ window.WEDDING_GIFTS = [
   },
   {
     "id": "presente-028",
-    "name": "Luminária de piso",
-    "category": "Sala",
-    "price": 320
+    "name": "Jogo de travessas",
+    "category": "Cozinha",
+    "price": 260
   },
   {
     "id": "presente-030",
@@ -122,9 +122,9 @@ window.WEDDING_GIFTS = [
   },
   {
     "id": "presente-031",
-    "name": "Quadros decorativos",
-    "category": "Sala",
-    "price": 220
+    "name": "Jogo de taças",
+    "category": "Cozinha",
+    "price": 250
   },
   {
     "id": "presente-034",
@@ -140,9 +140,9 @@ window.WEDDING_GIFTS = [
   },
   {
     "id": "presente-036",
-    "name": "Pufe",
-    "category": "Sala",
-    "price": 240
+    "name": "Jogo de copos",
+    "category": "Cozinha",
+    "price": 230
   },
   {
     "id": "presente-037",
@@ -158,9 +158,9 @@ window.WEDDING_GIFTS = [
   },
   {
     "id": "presente-039",
-    "name": "Aparador",
-    "category": "Sala",
-    "price": 520
+    "name": "Panela de pressão",
+    "category": "Cozinha",
+    "price": 350
   },
   {
     "id": "presente-040",
@@ -284,7 +284,7 @@ window.WEDDING_GIFTS = [
   },
   {
     "id": "presente-086",
-    "name": "Vassoura elétrica",
+    "name": "Ferro de passar roupa",
     "category": "Lavanderia e casa",
     "price": 290
   },
@@ -305,5 +305,305 @@ window.WEDDING_GIFTS = [
     "name": "Armário de serviço",
     "category": "Lavanderia e casa",
     "price": 590
+  },
+  {
+    "id": "presente-101",
+    "name": "Geladeira",
+    "category": "Cozinha",
+    "price": 3200
+  },
+  {
+    "id": "presente-102",
+    "name": "Fogão",
+    "category": "Cozinha",
+    "price": 1800
+  },
+  {
+    "id": "presente-103",
+    "name": "Cooktop",
+    "category": "Cozinha",
+    "price": 850
+  },
+  {
+    "id": "presente-104",
+    "name": "Coifa ou depurador",
+    "category": "Cozinha",
+    "price": 650
+  },
+  {
+    "id": "presente-105",
+    "name": "Sanduicheira",
+    "category": "Cozinha",
+    "price": 230
+  },
+  {
+    "id": "presente-106",
+    "name": "Torradeira",
+    "category": "Cozinha",
+    "price": 240
+  },
+  {
+    "id": "presente-107",
+    "name": "Chaleira elétrica",
+    "category": "Cozinha",
+    "price": 230
+  },
+  {
+    "id": "presente-108",
+    "name": "Mixer de mão",
+    "category": "Cozinha",
+    "price": 260
+  },
+  {
+    "id": "presente-109",
+    "name": "Processador de alimentos",
+    "category": "Cozinha",
+    "price": 380
+  },
+  {
+    "id": "presente-110",
+    "name": "Panela de arroz elétrica",
+    "category": "Cozinha",
+    "price": 330
+  },
+  {
+    "id": "presente-111",
+    "name": "Jogo de frigideiras",
+    "category": "Cozinha",
+    "price": 300
+  },
+  {
+    "id": "presente-112",
+    "name": "Jogo de facas",
+    "category": "Cozinha",
+    "price": 290
+  },
+  {
+    "id": "presente-113",
+    "name": "Jogo de potes herméticos",
+    "category": "Cozinha",
+    "price": 250
+  },
+  {
+    "id": "presente-114",
+    "name": "Conjunto de pratos fundos",
+    "category": "Cozinha",
+    "price": 240
+  },
+  {
+    "id": "presente-115",
+    "name": "Jogo de xícaras de café",
+    "category": "Cozinha",
+    "price": 220
+  },
+  {
+    "id": "presente-116",
+    "name": "Jogo de canecas",
+    "category": "Cozinha",
+    "price": 220
+  },
+  {
+    "id": "presente-117",
+    "name": "Conjunto de talheres para servir",
+    "category": "Cozinha",
+    "price": 230
+  },
+  {
+    "id": "presente-118",
+    "name": "Escorredor de louças",
+    "category": "Cozinha",
+    "price": 230
+  },
+  {
+    "id": "presente-119",
+    "name": "Lixeira de cozinha",
+    "category": "Cozinha",
+    "price": 240
+  },
+  {
+    "id": "presente-120",
+    "name": "Jogo de tábuas de corte",
+    "category": "Cozinha",
+    "price": 230
+  },
+  {
+    "id": "presente-121",
+    "name": "Jogo de formas para bolo",
+    "category": "Cozinha",
+    "price": 250
+  },
+  {
+    "id": "presente-122",
+    "name": "Conjunto de refratários de vidro",
+    "category": "Cozinha",
+    "price": 280
+  },
+  {
+    "id": "presente-123",
+    "name": "Jogo americano para mesa",
+    "category": "Cozinha",
+    "price": 220
+  },
+  {
+    "id": "presente-124",
+    "name": "Toalha de mesa",
+    "category": "Cozinha",
+    "price": 230
+  },
+  {
+    "id": "presente-125",
+    "name": "Garrafa térmica",
+    "category": "Cozinha",
+    "price": 220
+  },
+  {
+    "id": "presente-126",
+    "name": "Jarra e copos",
+    "category": "Cozinha",
+    "price": 240
+  },
+  {
+    "id": "presente-127",
+    "name": "Jogo de utensílios de silicone",
+    "category": "Cozinha",
+    "price": 230
+  },
+  {
+    "id": "presente-128",
+    "name": "Organizadores de armário",
+    "category": "Cozinha",
+    "price": 250
+  },
+  {
+    "id": "presente-129",
+    "name": "Jogo de toalhas de rosto",
+    "category": "Banheiro",
+    "price": 220
+  },
+  {
+    "id": "presente-130",
+    "name": "Tapete de banheiro",
+    "category": "Banheiro",
+    "price": 220
+  },
+  {
+    "id": "presente-131",
+    "name": "Kit de acessórios para banheiro",
+    "category": "Banheiro",
+    "price": 250
+  },
+  {
+    "id": "presente-132",
+    "name": "Cesto de roupa suja",
+    "category": "Lavanderia e casa",
+    "price": 230
+  },
+  {
+    "id": "presente-133",
+    "name": "Varal de chão",
+    "category": "Lavanderia e casa",
+    "price": 250
+  },
+  {
+    "id": "presente-134",
+    "name": "Tábua de passar roupa",
+    "category": "Lavanderia e casa",
+    "price": 260
+  },
+  {
+    "id": "presente-135",
+    "name": "Mop de limpeza",
+    "category": "Lavanderia e casa",
+    "price": 230
+  },
+  {
+    "id": "presente-136",
+    "name": "Jogo de baldes e bacias",
+    "category": "Lavanderia e casa",
+    "price": 220
+  },
+  {
+    "id": "presente-137",
+    "name": "Kit de organização para lavanderia",
+    "category": "Lavanderia e casa",
+    "price": 240
+  },
+  {
+    "id": "presente-138",
+    "name": "Jogo de fronhas",
+    "category": "Quarto",
+    "price": 220
+  },
+  {
+    "id": "presente-139",
+    "name": "Protetor de colchão",
+    "category": "Quarto",
+    "price": 250
+  },
+  {
+    "id": "presente-140",
+    "name": "Jogo de travesseiros",
+    "category": "Quarto",
+    "price": 280
+  },
+  {
+    "id": "presente-141",
+    "name": "Cobertor de casal",
+    "category": "Quarto",
+    "price": 260
+  },
+  {
+    "id": "presente-142",
+    "name": "Manta para sofá",
+    "category": "Sala",
+    "price": 240
+  },
+  {
+    "id": "presente-143",
+    "name": "Almofadas para sofá",
+    "category": "Sala",
+    "price": 250
+  },
+  {
+    "id": "presente-144",
+    "name": "Luminária de mesa",
+    "category": "Quarto",
+    "price": 230
+  },
+  {
+    "id": "presente-145",
+    "name": "Abajur de cabeceira",
+    "category": "Quarto",
+    "price": 240
+  },
+  {
+    "id": "presente-146",
+    "name": "Organizadores de gaveta",
+    "category": "Quarto",
+    "price": 230
+  },
+  {
+    "id": "presente-147",
+    "name": "Televisão",
+    "category": "Sala",
+    "price": 2100
+  },
+  {
+    "id": "presente-148",
+    "name": "Mesa lateral para sofá",
+    "category": "Sala",
+    "price": 320
+  },
+  {
+    "id": "presente-149",
+    "name": "Relógio de parede",
+    "category": "Sala",
+    "price": 220
+  },
+  {
+    "id": "presente-150",
+    "name": "Kit de ferramentas domésticas",
+    "category": "Lavanderia e casa",
+    "price": 260
   }
 ];
