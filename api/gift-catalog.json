@@ -604,5 +604,605 @@
     "name": "Kit de ferramentas domésticas",
     "category": "Lavanderia e casa",
     "price": 260
+  },
+  {
+    "id": "presente-151",
+    "name": "Escorredor de macarrão",
+    "category": "Cozinha",
+    "price": 45
+  },
+  {
+    "id": "presente-152",
+    "name": "Peneiras de inox (kit)",
+    "category": "Cozinha",
+    "price": 65
+  },
+  {
+    "id": "presente-153",
+    "name": "Ralador multifuncional",
+    "category": "Cozinha",
+    "price": 55
+  },
+  {
+    "id": "presente-154",
+    "name": "Espremedor de alho",
+    "category": "Cozinha",
+    "price": 35
+  },
+  {
+    "id": "presente-155",
+    "name": "Espremedor de frutas manual",
+    "category": "Cozinha",
+    "price": 55
+  },
+  {
+    "id": "presente-156",
+    "name": "Abridor de latas e garrafas",
+    "category": "Cozinha",
+    "price": 40
+  },
+  {
+    "id": "presente-157",
+    "name": "Descascador de legumes",
+    "category": "Cozinha",
+    "price": 30
+  },
+  {
+    "id": "presente-158",
+    "name": "Tesoura de cozinha",
+    "category": "Cozinha",
+    "price": 45
+  },
+  {
+    "id": "presente-159",
+    "name": "Pegador de massas",
+    "category": "Cozinha",
+    "price": 35
+  },
+  {
+    "id": "presente-160",
+    "name": "Concha e escumadeira de inox",
+    "category": "Cozinha",
+    "price": 75
+  },
+  {
+    "id": "presente-161",
+    "name": "Medidores de xícaras e colheres",
+    "category": "Cozinha",
+    "price": 45
+  },
+  {
+    "id": "presente-162",
+    "name": "Balança digital de cozinha",
+    "category": "Cozinha",
+    "price": 65
+  },
+  {
+    "id": "presente-163",
+    "name": "Termômetro culinário",
+    "category": "Cozinha",
+    "price": 50
+  },
+  {
+    "id": "presente-164",
+    "name": "Rolo de massa",
+    "category": "Cozinha",
+    "price": 40
+  },
+  {
+    "id": "presente-165",
+    "name": "Pincel culinário e espátula",
+    "category": "Cozinha",
+    "price": 50
+  },
+  {
+    "id": "presente-166",
+    "name": "Moedor de pimenta e sal",
+    "category": "Cozinha",
+    "price": 90
+  },
+  {
+    "id": "presente-167",
+    "name": "Porta-temperos giratório",
+    "category": "Cozinha",
+    "price": 130
+  },
+  {
+    "id": "presente-168",
+    "name": "Porta-talheres de gaveta",
+    "category": "Cozinha",
+    "price": 60
+  },
+  {
+    "id": "presente-169",
+    "name": "Porta-guardanapos",
+    "category": "Cozinha",
+    "price": 35
+  },
+  {
+    "id": "presente-170",
+    "name": "Porta-papel-toalha",
+    "category": "Cozinha",
+    "price": 50
+  },
+  {
+    "id": "presente-171",
+    "name": "Açucareiro e manteigueira",
+    "category": "Cozinha",
+    "price": 85
+  },
+  {
+    "id": "presente-172",
+    "name": "Saleiro de mesa",
+    "category": "Cozinha",
+    "price": 35
+  },
+  {
+    "id": "presente-173",
+    "name": "Cesto de frutas",
+    "category": "Cozinha",
+    "price": 75
+  },
+  {
+    "id": "presente-174",
+    "name": "Boleira com tampa",
+    "category": "Cozinha",
+    "price": 100
+  },
+  {
+    "id": "presente-175",
+    "name": "Queijeira com tampa",
+    "category": "Cozinha",
+    "price": 55
+  },
+  {
+    "id": "presente-176",
+    "name": "Saladeira de vidro",
+    "category": "Cozinha",
+    "price": 95
+  },
+  {
+    "id": "presente-177",
+    "name": "Molheira de porcelana (kit)",
+    "category": "Cozinha",
+    "price": 60
+  },
+  {
+    "id": "presente-178",
+    "name": "Petisqueira",
+    "category": "Cozinha",
+    "price": 90
+  },
+  {
+    "id": "presente-179",
+    "name": "Tábua para frios",
+    "category": "Cozinha",
+    "price": 110
+  },
+  {
+    "id": "presente-180",
+    "name": "Bandeja de café da manhã",
+    "category": "Cozinha",
+    "price": 100
+  },
+  {
+    "id": "presente-181",
+    "name": "Copo medidor de vidro",
+    "category": "Cozinha",
+    "price": 45
+  },
+  {
+    "id": "presente-182",
+    "name": "Forma para pizza",
+    "category": "Cozinha",
+    "price": 55
+  },
+  {
+    "id": "presente-183",
+    "name": "Assadeira para pão",
+    "category": "Cozinha",
+    "price": 65
+  },
+  {
+    "id": "presente-184",
+    "name": "Forma de pudim",
+    "category": "Cozinha",
+    "price": 55
+  },
+  {
+    "id": "presente-185",
+    "name": "Forma de cupcake",
+    "category": "Cozinha",
+    "price": 60
+  },
+  {
+    "id": "presente-186",
+    "name": "Travessa para lasanha",
+    "category": "Cozinha",
+    "price": 110
+  },
+  {
+    "id": "presente-187",
+    "name": "Pipoqueira de fogão",
+    "category": "Cozinha",
+    "price": 140
+  },
+  {
+    "id": "presente-188",
+    "name": "Cuscuzeira",
+    "category": "Cozinha",
+    "price": 100
+  },
+  {
+    "id": "presente-189",
+    "name": "Leiteira de inox",
+    "category": "Cozinha",
+    "price": 80
+  },
+  {
+    "id": "presente-190",
+    "name": "Fruteira de chão",
+    "category": "Cozinha",
+    "price": 180
+  },
+  {
+    "id": "presente-191",
+    "name": "Sousplats (jogo)",
+    "category": "Mesa posta",
+    "price": 110
+  },
+  {
+    "id": "presente-192",
+    "name": "Anéis para guardanapos (jogo)",
+    "category": "Mesa posta",
+    "price": 70
+  },
+  {
+    "id": "presente-193",
+    "name": "Guardanapos de tecido (jogo)",
+    "category": "Mesa posta",
+    "price": 85
+  },
+  {
+    "id": "presente-194",
+    "name": "Caminho de mesa",
+    "category": "Mesa posta",
+    "price": 85
+  },
+  {
+    "id": "presente-195",
+    "name": "Centro de mesa decorativo",
+    "category": "Mesa posta",
+    "price": 130
+  },
+  {
+    "id": "presente-196",
+    "name": "Vaso para flores",
+    "category": "Mesa posta",
+    "price": 100
+  },
+  {
+    "id": "presente-197",
+    "name": "Jarra de suco com tampa",
+    "category": "Mesa posta",
+    "price": 65
+  },
+  {
+    "id": "presente-198",
+    "name": "Taças para sobremesa (jogo)",
+    "category": "Mesa posta",
+    "price": 110
+  },
+  {
+    "id": "presente-199",
+    "name": "Bowls para sobremesa (jogo)",
+    "category": "Mesa posta",
+    "price": 100
+  },
+  {
+    "id": "presente-200",
+    "name": "Conjunto para servir bolo",
+    "category": "Mesa posta",
+    "price": 75
+  },
+  {
+    "id": "presente-201",
+    "name": "Balde de gelo",
+    "category": "Mesa posta",
+    "price": 95
+  },
+  {
+    "id": "presente-202",
+    "name": "Bandeja para servir",
+    "category": "Mesa posta",
+    "price": 90
+  },
+  {
+    "id": "presente-203",
+    "name": "Porta-bolo com tampa",
+    "category": "Mesa posta",
+    "price": 115
+  },
+  {
+    "id": "presente-204",
+    "name": "Conjunto de ramequins",
+    "category": "Mesa posta",
+    "price": 100
+  },
+  {
+    "id": "presente-205",
+    "name": "Bomboniere de vidro",
+    "category": "Mesa posta",
+    "price": 85
+  },
+  {
+    "id": "presente-206",
+    "name": "Saia para cama box",
+    "category": "Quarto",
+    "price": 100
+  },
+  {
+    "id": "presente-207",
+    "name": "Capa impermeável para travesseiros",
+    "category": "Quarto",
+    "price": 70
+  },
+  {
+    "id": "presente-208",
+    "name": "Capas de almofadas decorativas",
+    "category": "Quarto",
+    "price": 90
+  },
+  {
+    "id": "presente-209",
+    "name": "Colcha de casal",
+    "category": "Quarto",
+    "price": 220
+  },
+  {
+    "id": "presente-210",
+    "name": "Jogo de cobre-leito",
+    "category": "Quarto",
+    "price": 260
+  },
+  {
+    "id": "presente-211",
+    "name": "Peseira para cama",
+    "category": "Quarto",
+    "price": 130
+  },
+  {
+    "id": "presente-212",
+    "name": "Manta de microfibra",
+    "category": "Quarto",
+    "price": 100
+  },
+  {
+    "id": "presente-213",
+    "name": "Cabides de veludo (kit)",
+    "category": "Quarto",
+    "price": 90
+  },
+  {
+    "id": "presente-214",
+    "name": "Caixas organizadoras para guarda-roupa",
+    "category": "Quarto",
+    "price": 110
+  },
+  {
+    "id": "presente-215",
+    "name": "Colmeias organizadoras de roupas",
+    "category": "Quarto",
+    "price": 70
+  },
+  {
+    "id": "presente-216",
+    "name": "Porta-joias",
+    "category": "Quarto",
+    "price": 95
+  },
+  {
+    "id": "presente-217",
+    "name": "Cesto organizador para quarto",
+    "category": "Quarto",
+    "price": 85
+  },
+  {
+    "id": "presente-218",
+    "name": "Despertador digital",
+    "category": "Quarto",
+    "price": 100
+  },
+  {
+    "id": "presente-219",
+    "name": "Luminária de leitura",
+    "category": "Quarto",
+    "price": 85
+  },
+  {
+    "id": "presente-220",
+    "name": "Umidificador de ar",
+    "category": "Quarto",
+    "price": 180
+  },
+  {
+    "id": "presente-221",
+    "name": "Toalhas de banho avulsas (par)",
+    "category": "Banheiro",
+    "price": 130
+  },
+  {
+    "id": "presente-222",
+    "name": "Toalhas de piso (par)",
+    "category": "Banheiro",
+    "price": 75
+  },
+  {
+    "id": "presente-223",
+    "name": "Toalhas para lavabo (jogo)",
+    "category": "Banheiro",
+    "price": 70
+  },
+  {
+    "id": "presente-224",
+    "name": "Porta-escovas de dentes",
+    "category": "Banheiro",
+    "price": 40
+  },
+  {
+    "id": "presente-225",
+    "name": "Dispenser de sabonete líquido",
+    "category": "Banheiro",
+    "price": 50
+  },
+  {
+    "id": "presente-226",
+    "name": "Saboneteira de bancada",
+    "category": "Banheiro",
+    "price": 35
+  },
+  {
+    "id": "presente-227",
+    "name": "Lixeira de banheiro com pedal",
+    "category": "Banheiro",
+    "price": 85
+  },
+  {
+    "id": "presente-228",
+    "name": "Suporte para papel higiênico",
+    "category": "Banheiro",
+    "price": 55
+  },
+  {
+    "id": "presente-229",
+    "name": "Prateleira para box",
+    "category": "Banheiro",
+    "price": 100
+  },
+  {
+    "id": "presente-230",
+    "name": "Cortina de box",
+    "category": "Banheiro",
+    "price": 80
+  },
+  {
+    "id": "presente-231",
+    "name": "Organizador de cosméticos",
+    "category": "Banheiro",
+    "price": 95
+  },
+  {
+    "id": "presente-232",
+    "name": "Espelho de maquiagem com iluminação",
+    "category": "Banheiro",
+    "price": 140
+  },
+  {
+    "id": "presente-233",
+    "name": "Prendedores de roupa (kit)",
+    "category": "Lavanderia e casa",
+    "price": 35
+  },
+  {
+    "id": "presente-234",
+    "name": "Cesto para prendedores",
+    "category": "Lavanderia e casa",
+    "price": 30
+  },
+  {
+    "id": "presente-235",
+    "name": "Sacos para lavar roupas delicadas",
+    "category": "Lavanderia e casa",
+    "price": 45
+  },
+  {
+    "id": "presente-236",
+    "name": "Organizador de produtos de limpeza",
+    "category": "Lavanderia e casa",
+    "price": 80
+  },
+  {
+    "id": "presente-237",
+    "name": "Suporte para vassouras e rodos",
+    "category": "Lavanderia e casa",
+    "price": 60
+  },
+  {
+    "id": "presente-238",
+    "name": "Pá de lixo com cabo",
+    "category": "Lavanderia e casa",
+    "price": 55
+  },
+  {
+    "id": "presente-239",
+    "name": "Rodo para piso",
+    "category": "Lavanderia e casa",
+    "price": 45
+  },
+  {
+    "id": "presente-240",
+    "name": "Panos de microfibra (kit)",
+    "category": "Lavanderia e casa",
+    "price": 50
+  },
+  {
+    "id": "presente-241",
+    "name": "Panos de prato (jogo)",
+    "category": "Lavanderia e casa",
+    "price": 80
+  },
+  {
+    "id": "presente-242",
+    "name": "Luvas de limpeza (kit)",
+    "category": "Lavanderia e casa",
+    "price": 35
+  },
+  {
+    "id": "presente-243",
+    "name": "Escova de limpeza multiuso (kit)",
+    "category": "Lavanderia e casa",
+    "price": 50
+  },
+  {
+    "id": "presente-244",
+    "name": "Capa para máquina de lavar",
+    "category": "Lavanderia e casa",
+    "price": 85
+  },
+  {
+    "id": "presente-245",
+    "name": "Extensão elétrica com proteção",
+    "category": "Lavanderia e casa",
+    "price": 100
+  },
+  {
+    "id": "presente-246",
+    "name": "Filtro de linha",
+    "category": "Lavanderia e casa",
+    "price": 90
+  },
+  {
+    "id": "presente-247",
+    "name": "Lanterna recarregável",
+    "category": "Lavanderia e casa",
+    "price": 100
+  },
+  {
+    "id": "presente-248",
+    "name": "Caixa de primeiros socorros",
+    "category": "Lavanderia e casa",
+    "price": 100
+  },
+  {
+    "id": "presente-249",
+    "name": "Kit de costura doméstico",
+    "category": "Lavanderia e casa",
+    "price": 50
+  },
+  {
+    "id": "presente-250",
+    "name": "Lixeira com pedal para lavanderia",
+    "category": "Lavanderia e casa",
+    "price": 100
   }
 ]
