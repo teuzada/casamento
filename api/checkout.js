@@ -32,9 +32,9 @@ module.exports = async function handler(req, res) {
     } else {
       return res.status(400).json({error:"Selecione um presente válido."});
     }
-    const minimumCents = godparents ? 120000 : MINIMUM_CENTS;
+    const minimumCents = godparents ? 150000 : MINIMUM_CENTS;
     if (!Number.isSafeInteger(amountCents) || amountCents < minimumCents || amountCents > MAXIMUM_CENTS)
-      return res.status(400).json({error:godparents?"O valor mínimo dos padrinhos é R$ 1.200.":"Escolha um valor entre R$ 200 e R$ 100.000."});
+      return res.status(400).json({error:godparents?"O valor mínimo dos padrinhos é R$ 1.500.":"Escolha um valor entre R$ 200 e R$ 100.000."});
     const order_nsu = "casamento-" + crypto.randomUUID();
     const payload = {
       handle: HANDLE,
