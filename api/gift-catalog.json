@@ -418,5 +418,185 @@
     "name": "Mesa lateral para sofá",
     "category": "Sala",
     "price": 283
+  },
+  {
+    "id": "presente-251",
+    "name": "Fritadeira Air Fryer Oven Britânia 12 Litros 1800W Função Programar BAF12A",
+    "category": "Cozinha",
+    "price": 399.9
+  },
+  {
+    "id": "presente-252",
+    "name": "Panela de Pressão Elétrica 6 Litros WAP Multicooker WPPE7 Touch",
+    "category": "Cozinha",
+    "price": 499.9
+  },
+  {
+    "id": "presente-253",
+    "name": "Aspirador de Pó Philco 3,2L Filtro HEPA 2200W PAS6000",
+    "category": "Limpeza",
+    "price": 399.9
+  },
+  {
+    "id": "presente-254",
+    "name": "Cafeteira Arno Dolce Gusto Genio S Plus Preta DGS2",
+    "category": "Cozinha",
+    "price": 499.9
+  },
+  {
+    "id": "presente-255",
+    "name": "Fritadeira sem óleo Air Fryer Arno Mega Compact 7,5L AFC7",
+    "category": "Cozinha",
+    "price": 599.9
+  },
+  {
+    "id": "presente-256",
+    "name": "Sorveteira Caseira WAP Ultracream WSV01 Receitas Saudáveis",
+    "category": "Cozinha",
+    "price": 1299.9
+  },
+  {
+    "id": "presente-257",
+    "name": "Robô Aspirador de Pó Inteligente Xiaomi S40c",
+    "category": "Limpeza",
+    "price": 2499.9
+  },
+  {
+    "id": "presente-258",
+    "name": "Aspirador De Pó Vertical Wap Power Speed Max AZ20 1600W",
+    "category": "Limpeza",
+    "price": 299.9
+  },
+  {
+    "id": "presente-259",
+    "name": "Liquidificador Oster 3,3 Litros Preto OLIQ450",
+    "category": "Cozinha",
+    "price": 229.9
+  },
+  {
+    "id": "presente-260",
+    "name": "Mixer Klicke 3 em 1 Inox",
+    "category": "Cozinha",
+    "price": 299.9
+  },
+  {
+    "id": "presente-261",
+    "name": "Fritadeira Air Fryer Klicke Cesto de Vidro 4 Litros",
+    "category": "Cozinha",
+    "price": 699.9
+  },
+  {
+    "id": "presente-262",
+    "name": "Panela de Pressão Elétrica WAP 900W 5 Litros Inox WPPE2",
+    "category": "Cozinha",
+    "price": 449.9
+  },
+  {
+    "id": "presente-263",
+    "name": "Passadeira Higienizadora Philco 220Ml 1200W Bivolt Pvp10a",
+    "category": "Lavanderia",
+    "price": 249.9
+  },
+  {
+    "id": "presente-264",
+    "name": "Fritadeira Air Fryer Oven Philco 11 Litros 8 Funções Visor 1800W PAF11B",
+    "category": "Cozinha",
+    "price": 799.9
+  },
+  {
+    "id": "presente-265",
+    "name": "Aspirador de Pó e Água Electrolux 1800W Inox 20 Litros GT20i",
+    "category": "Limpeza",
+    "price": 549.9
+  },
+  {
+    "id": "presente-266",
+    "name": "Grill Philco 2 em 1 Chapa com abertura 180° PGR50A",
+    "category": "Cozinha",
+    "price": 499.9
+  },
+  {
+    "id": "presente-267",
+    "name": "Panela de Arroz Elétrica Electrolux por Rita Lobo 3,5L Efficient 2 em 1",
+    "category": "Cozinha",
+    "price": 379.9
+  },
+  {
+    "id": "presente-268",
+    "name": "Forno Elétrico Mueller Mfb50k 50 Litros Preto Com Grill",
+    "category": "Cozinha",
+    "price": 899.9
+  },
+  {
+    "id": "presente-269",
+    "name": "Liquidificador Philco PLQ15A Turbo 1500W 12 Velocidades 3,1 Litros",
+    "category": "Cozinha",
+    "price": 299.9
+  },
+  {
+    "id": "presente-270",
+    "name": "Processador Philco 420W Jarra para 500ml PMN04A",
+    "category": "Cozinha",
+    "price": 249.9
+  },
+  {
+    "id": "presente-271",
+    "name": "Fritadeira Air Fryer Britânia 5 Litros Antiaderente Gold 1500W BAF45A",
+    "category": "Cozinha",
+    "price": 399.9
+  },
+  {
+    "id": "presente-272",
+    "name": "Aspirador de Pó Vertical Electrolux Sem Fio 2 em 1 Erg018 - Bivolt",
+    "category": "Limpeza",
+    "price": 749.9
+  },
+  {
+    "id": "presente-273",
+    "name": "Vaporizador e Higienizador de Roupas Black & Decker Bdv3100 - Preto",
+    "category": "Lavanderia",
+    "price": 299.9
+  },
+  {
+    "id": "presente-274",
+    "name": "Mixer Power Oster Black Inox 3 em 1 OMIX570",
+    "category": "Cozinha",
+    "price": 299.9
+  },
+  {
+    "id": "presente-275",
+    "name": "Ferro à Vapor WAP Fast Pass Aquecimento em 15s",
+    "category": "Lavanderia",
+    "price": 249.9
+  },
+  {
+    "id": "presente-276",
+    "name": "Cafeteira Oster PrimaLatte Essential Espresso",
+    "category": "Cozinha",
+    "price": 999.9
+  },
+  {
+    "id": "presente-277",
+    "name": "Purificador de Água Colormaq Pró Grafito",
+    "category": "Cozinha",
+    "price": 899.9
+  },
+  {
+    "id": "presente-278",
+    "name": "Multiprocessador Philco 1000W 5 em 1 PMP10A",
+    "category": "Cozinha",
+    "price": 449.9
+  },
+  {
+    "id": "presente-279",
+    "name": "Moedor de Café WAP Aroma WMC200",
+    "category": "Cozinha",
+    "price": 249.9
+  },
+  {
+    "id": "presente-280",
+    "name": "Cafeteira Wap Aroma Programável WCD1500",
+    "category": "Cozinha",
+    "price": 379.9
   }
 ]
