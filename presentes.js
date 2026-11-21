@@ -287,5 +287,83 @@ window.WEDDING_GIFTS = [
     "name": "PS5 Pros noivos jogarem GTA VI",
     "category": "Diversão",
     "price": 3999.9
+  },
+  {
+    "id": "presente-313",
+    "name": "TV 55 polegadas para nossas noites de cinema",
+    "category": "Sala",
+    "price": 2699
+  },
+  {
+    "id": "presente-314",
+    "name": "Soundbar para transformar a sala em cinema",
+    "category": "Sala",
+    "price": 799
+  },
+  {
+    "id": "presente-315",
+    "name": "Projetor para assistir filmes juntinhos",
+    "category": "Diversão",
+    "price": 899
+  },
+  {
+    "id": "presente-316",
+    "name": "Churrasqueira elétrica para os domingos",
+    "category": "Cozinha",
+    "price": 399
+  },
+  {
+    "id": "presente-317",
+    "name": "Máquina de pipoca para maratonar séries",
+    "category": "Diversão",
+    "price": 229
+  },
+  {
+    "id": "presente-318",
+    "name": "Kit fondue para noites românticas",
+    "category": "Mesa posta",
+    "price": 249
+  },
+  {
+    "id": "presente-319",
+    "name": "Adega climatizada para nossa casa",
+    "category": "Cozinha",
+    "price": 1499
+  },
+  {
+    "id": "presente-320",
+    "name": "Mala de viagem para nossa primeira aventura",
+    "category": "Viagem",
+    "price": 449
+  },
+  {
+    "id": "presente-321",
+    "name": "Karaokê para as noites com amigos",
+    "category": "Diversão",
+    "price": 399
+  },
+  {
+    "id": "presente-322",
+    "name": "Rede de descanso para os dias de preguiça",
+    "category": "Lazer",
+    "price": 249
+  },
+  {
+    "id": "presente-323",
+    "name": "Mesa de jogos para as noites em família",
+    "category": "Diversão",
+    "price": 799
+  },
+  {
+    "id": "presente-324",
+    "name": "Tábua para frios para receber os amigos",
+    "category": "Mesa posta",
+    "price": 229
+  },
+  {
+    "id": "presente-325",
+    "name": "Kit de talheres metálicos para servir aperitivos",
+    "category": "Mesa posta",
+    "price": 239
   }
 ];
