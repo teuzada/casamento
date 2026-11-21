@@ -154,5 +154,65 @@
     "name": "Moedor de Café WAP Aroma WMC200",
     "category": "Cozinha",
     "price": 224.91
+  },
+  {
+    "id": "presente-281",
+    "name": "Ventilador Britânia BVT405 Tecnologia Maxx Force 150W",
+    "category": "Sala",
+    "price": 206.91
+  },
+  {
+    "id": "presente-282",
+    "name": "Espelho de Chão com Suporte 37X157cm Imbuia - Euro Quadros",
+    "category": "Decoração",
+    "price": 224.99
+  },
+  {
+    "id": "presente-283",
+    "name": "Varal de Chão com Abas Maxi Alum Mor",
+    "category": "Lavanderia",
+    "price": 224.99
+  },
+  {
+    "id": "presente-284",
+    "name": "Tábua De Passar Roupa Utimil Mais Bela Preta - Aço Carbono",
+    "category": "Lavanderia",
+    "price": 224.99
+  },
+  {
+    "id": "presente-285",
+    "name": "Sapateira Barcelona 3 Prateleiras Havan Casa - Freijo",
+    "category": "Quarto",
+    "price": 359.91
+  },
+  {
+    "id": "presente-286",
+    "name": "Cadeira de Escritório Maxprint Arantes Preta e Branca",
+    "category": "Escritório",
+    "price": 449.91
+  },
+  {
+    "id": "presente-287",
+    "name": "Poltrona Moscow 78X56 cm Havan Casa - Cinza",
+    "category": "Sala",
+    "price": 629.91
+  },
+  {
+    "id": "presente-288",
+    "name": "Puff Orgânico Londres Havan Casa - Corano",
+    "category": "Sala",
+    "price": 314.91
+  },
+  {
+    "id": "presente-289",
+    "name": "Mesa de Centro Paris Havan Casa - MDF",
+    "category": "Sala",
+    "price": 209.99
+  },
+  {
+    "id": "presente-290",
+    "name": "Cadeira Saarinen 54X47,5X81 cm Conthey - Preto",
+    "category": "Sala",
+    "price": 251.99
   }
 ]
