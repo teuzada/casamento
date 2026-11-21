@@ -364,5 +364,107 @@
     "name": "Kit de talheres metálicos para servir aperitivos",
     "category": "Mesa posta",
     "price": 239
+  },
+  {
+    "id": "presente-330",
+    "name": "Micro-ondas 20 Litros Preto para Nossa Cozinha",
+    "category": "Cozinha",
+    "price": 549.9
+  },
+  {
+    "id": "presente-331",
+    "name": "Fogão 4 Bocas com Acendimento Automático",
+    "category": "Cozinha",
+    "price": 1099.9
+  },
+  {
+    "id": "presente-332",
+    "name": "Geladeira Duplex Frost Free para Nosso Primeiro Lar",
+    "category": "Cozinha",
+    "price": 2899.9
+  },
+  {
+    "id": "presente-333",
+    "name": "Batedeira Planetária Preta",
+    "category": "Cozinha",
+    "price": 449.9
+  },
+  {
+    "id": "presente-334",
+    "name": "Torradeira Elétrica Preta",
+    "category": "Cozinha",
+    "price": 229.9
+  },
+  {
+    "id": "presente-335",
+    "name": "Chaleira Elétrica Inox",
+    "category": "Cozinha",
+    "price": 219.9
+  },
+  {
+    "id": "presente-336",
+    "name": "Jogo de Lençóis Casal 4 Peças Cinza",
+    "category": "Quarto",
+    "price": 249.9
+  },
+  {
+    "id": "presente-337",
+    "name": "Cobertor Casal de Microfibra Grafite",
+    "category": "Quarto",
+    "price": 229.9
+  },
+  {
+    "id": "presente-338",
+    "name": "Kit 2 Travesseiros Antialérgicos para os Noivos",
+    "category": "Quarto",
+    "price": 219.9
+  },
+  {
+    "id": "presente-339",
+    "name": "Protetor de Colchão Casal Impermeável",
+    "category": "Quarto",
+    "price": 229.9
+  },
+  {
+    "id": "presente-340",
+    "name": "Jogo de Toalhas de Banho e Rosto 5 Peças Cinza",
+    "category": "Lavanderia",
+    "price": 249.9
+  },
+  {
+    "id": "presente-341",
+    "name": "Lixeira de Pedal Inox 30 Litros",
+    "category": "Limpeza",
+    "price": 269.9
+  },
+  {
+    "id": "presente-342",
+    "name": "Escada Doméstica Dobrável de Alumínio 5 Degraus",
+    "category": "Lavanderia",
+    "price": 279.9
+  },
+  {
+    "id": "presente-343",
+    "name": "Aparelho de Jantar para Sobremesa 6 Peças Branco",
+    "category": "Mesa posta",
+    "price": 219.9
+  },
+  {
+    "id": "presente-344",
+    "name": "Jogo de Copos de Vidro 12 Peças para Nossa Casa",
+    "category": "Mesa posta",
+    "price": 219.9
+  },
+  {
+    "id": "presente-345",
+    "name": "Abajur de Mesa Preto para Iluminação Aconchegante",
+    "category": "Decoração",
+    "price": 229.9
+  },
+  {
+    "id": "presente-346",
+    "name": "Mesa Lateral Redonda Preta para Sala",
+    "category": "Sala",
+    "price": 259.9
   }
 ]
