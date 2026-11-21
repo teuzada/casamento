@@ -186,12 +186,6 @@
     "price": 359.91
   },
   {
-    "id": "presente-286",
-    "name": "Cadeira de Escritório Maxprint Arantes Preta e Branca",
-    "category": "Escritório",
-    "price": 449.91
-  },
-  {
     "id": "presente-287",
     "name": "Poltrona Moscow 78X56 cm Havan Casa - Cinza",
     "category": "Sala",
@@ -214,5 +208,77 @@
     "name": "Cadeira Saarinen 54X47,5X81 cm Conthey - Preto",
     "category": "Sala",
     "price": 251.99
+  },
+  {
+    "id": "presente-300",
+    "name": "Luminária de Piso com Haste Preta para Sala",
+    "category": "Sala",
+    "price": 269.91
+  },
+  {
+    "id": "presente-301",
+    "name": "Rack para TV Compacto com Acabamento Freijó e Preto",
+    "category": "Sala",
+    "price": 449.91
+  },
+  {
+    "id": "presente-302",
+    "name": "Relógio de Parede Grande Minimalista Preto",
+    "category": "Decoração",
+    "price": 224.91
+  },
+  {
+    "id": "presente-303",
+    "name": "Quadro Decorativo Abstrato em Tons de Cinza com Moldura Preta",
+    "category": "Decoração",
+    "price": 269.91
+  },
+  {
+    "id": "presente-304",
+    "name": "Vaso Decorativo de Cerâmica Grafite para Sala",
+    "category": "Decoração",
+    "price": 224.91
+  },
+  {
+    "id": "presente-305",
+    "name": "Cesto de Roupa Suja Duplo com Estrutura Metálica Preta",
+    "category": "Lavanderia",
+    "price": 224.91
+  },
+  {
+    "id": "presente-306",
+    "name": "Armário Multiuso para Área de Serviço Branco e Cinza",
+    "category": "Lavanderia",
+    "price": 449.91
+  },
+  {
+    "id": "presente-307",
+    "name": "Mop Elétrico Giratório Recarregável para Pisos",
+    "category": "Limpeza",
+    "price": 359.91
+  },
+  {
+    "id": "presente-308",
+    "name": "Lavadora de Alta Pressão Compacta para Limpeza Doméstica",
+    "category": "Limpeza",
+    "price": 539.91
+  },
+  {
+    "id": "presente-309",
+    "name": "Jogo de Taças de Cristal Transparente 12 Peças",
+    "category": "Mesa posta",
+    "price": 269.91
+  },
+  {
+    "id": "presente-310",
+    "name": "Jogo de Travessas de Porcelana Branca 3 Peças",
+    "category": "Mesa posta",
+    "price": 224.91
+  },
+  {
+    "id": "presente-311",
+    "name": "Jogo de Assadeiras de Vidro com Tampa 5 Peças",
+    "category": "Cozinha",
+    "price": 224.91
   }
 ]
